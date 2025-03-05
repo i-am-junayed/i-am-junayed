@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Junayed!  
 
 🚀 **About Me:**  
-I am passionate about **Machine Learning, Deep Learning, and Medical Image Processing Research**. Currently, I am working as an **Adjunct Lecturer** and a **Funded Research Assistant** at **Independent University**.  
+I am passionate about **Machine Learning, Deep Learning, and Medical Image Processing Research**. Currently, I am working as an **Adjunct Lecturer** and a **Funded Research Assistant** at **Independent University, Bangladesh**.  
 
 🎓 **Teaching Experience:**  
 I have taught **Algorithms** and **Data Structures**, helping students build strong problem-solving and computational thinking skills.  
